@@ -247,7 +247,7 @@ EC2 instances in private subnets have no direct internet access. A temporary pub
 
 The entire infrastructure can be reproduced automatically using the provided CloudFormation template — no manual console steps required.
 
-**Template:** [`cloudformation/cloudformation-3tier-wordpress.yaml`](cloudformation/cloudformation-3tier-wordpress.yaml)
+**Template:** [`CloudFormation-Template/3-Tier-WebApp-Template.yaml`](cloudformation/cloudformation-3tier-wordpress.yaml)
 
 ### What it provisions
 
