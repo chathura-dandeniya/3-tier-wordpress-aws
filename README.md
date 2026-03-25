@@ -315,4 +315,4 @@ Step-by-step console screenshots are organised in the [`screenshots/`](screensho
 
 **Chathura Dandeniya**
 AWS Solutions Architect Associate | CKA | Terraform Associate
-[LinkedIn](https://www.linkedin.com/in/chathura-dandeniya) | [GitHub](https://github.com/chathura-dandeniya)
+[LinkedIn](https://www.linkedin.com/in/chathura-dandeniya-7913b022b/) | [GitHub](https://github.com/chathura-dandeniya)
